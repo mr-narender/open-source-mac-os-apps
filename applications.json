@@ -19987,7 +19987,7 @@
                 "https://raw.githubusercontent.com/Rishab87/tarn/main/website/assets/app-light.jpg",
                 "https://raw.githubusercontent.com/Rishab87/tarn/main/website/assets/app-dark.jpg"
             ],
-            "official_site": "https://tarn-ai.vercel.app",
+            "official_site": "https://www.tarndesk.com",
             "languages": [
                 "swift"
             ]
@@ -23821,6 +23821,606 @@
                 "https://github.com/user-attachments/assets/eaf8b248-19d7-43fe-ab5c-2b58df7a4495"
             ],
             "official_site": "https://voxt.actnow.dev/",
+            "languages": [
+                "go",
+                "swift"
+            ]
+        },
+        {
+            "title": "Earth Now",
+            "short_description": "Live 3D Earth as your desktop wallpaper, with the real sun position, city lights and satellite clouds.",
+            "categories": [
+                "wallpaper"
+            ],
+            "repo_url": "https://github.com/Hensobo/earth-now",
+            "icon_url": "https://raw.githubusercontent.com/Hensobo/earth-now/main/design/icon/png/earth-now-128.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Hensobo/earth-now/main/docs/screenshots/views/whole-earth.jpg"
+            ],
+            "official_site": "https://hensobo.github.io/earth-now/",
+            "languages": [
+                "swift",
+                "javascript"
+            ]
+        },
+        {
+            "title": "WindowShade",
+            "short_description": "Double-click a title bar and the window rolls up into a thin bar where it was, with pinned previews and Picture in Picture.",
+            "categories": [
+                "window-management",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/surfine/WindowShade",
+            "icon_url": "https://raw.githubusercontent.com/surfine/WindowShade/main/assets/app-icon/windowshade-app-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/surfine/WindowShade/main/assets/readme-desk-en.png"
+            ],
+            "official_site": "https://windowshade.aaronlau.me/en/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Shows Claude Code, Codex and Gemini CLI permission requests in the MacBook notch to allow, deny or answer them there or from a paired phone.",
+            "categories": [
+                "menubar",
+                "development"
+            ],
+            "repo_url": "https://github.com/hungverse/notchtasks",
+            "title": "NotchTasks",
+            "icon_url": "https://raw.githubusercontent.com/hungverse/notchtasks/main/.github/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hungverse/notchtasks/main/.github/assets/notch-macos.gif"
+            ],
+            "official_site": "https://notchtasks.web.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Download App Store and TestFlight IPAs and decrypt them locally with FairPlay, with credential management for iOS devices.",
+            "categories": [
+                "development",
+                "security"
+            ],
+            "repo_url": "https://github.com/Re13orn/IPA-Decrypt",
+            "title": "IPA-Decrypt",
+            "icon_url": "https://raw.githubusercontent.com/Re13orn/IPA-Decrypt/main/apps/macos/Resources/Assets.xcassets/AppIcon.appiconset/Icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Re13orn/IPA-Decrypt/main/docs/images/macos-search.jpg",
+                "https://raw.githubusercontent.com/Re13orn/IPA-Decrypt/main/docs/images/macos-app-details.jpg"
+            ],
+            "official_site": "https://github.com/Re13orn/IPA-Decrypt",
+            "languages": [
+                "go",
+                "swift"
+            ]
+        },
+        {
+            "title": "Nook",
+            "short_description": "Turns the MacBook notch into a hub for Now Playing from any player including browsers, a volume and brightness HUD, a focus timer, Apple Reminders, tasks, Markdown notes and a file shelf, in English and Arabic.",
+            "categories": [
+                "menubar",
+                "utilities",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/siliconile/Nook",
+            "icon_url": "https://raw.githubusercontent.com/siliconile/Nook/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/siliconile/Nook/main/docs/demo.gif"
+            ],
+            "official_site": "https://github.com/siliconile/Nook",
+            "languages": [
+                "swift",
+                "objective-c"
+            ]
+        },
+        {
+            "short_description": "Menu bar app that switches the Claude desktop app between accounts in one click, brings chats along and shows each account's session and weekly limits.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/krutikJain/relaycat",
+            "title": "Relaycat",
+            "icon_url": "https://raw.githubusercontent.com/krutikJain/relaycat/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/krutikJain/relaycat/main/docs/images/profiles-light.png",
+                "https://raw.githubusercontent.com/krutikJain/relaycat/main/docs/images/menubar-switch.gif"
+            ],
+            "official_site": "https://github.com/krutikJain/relaycat",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "YANA",
+            "short_description": "Turns the MacBook notch into a Dynamic Island for media, volume and brightness HUDs, notifications, Messages, iPhone calls, calendar, weather, timers and a file shelf.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/veaceslavmafteiaevoluta/yana",
+            "icon_url": "https://raw.githubusercontent.com/veaceslavmafteiaevoluta/yana/main/Resources/AppIcon-1024.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/veaceslavmafteiaevoluta/yana/main/assets/screenshots/tab-home.png",
+                "https://raw.githubusercontent.com/veaceslavmafteiaevoluta/yana/main/assets/screenshots/tab-audio.png",
+                "https://raw.githubusercontent.com/veaceslavmafteiaevoluta/yana/main/assets/screenshots/tab-widgets.png"
+            ],
+            "official_site": "https://github.com/veaceslavmafteiaevoluta/yana",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "FreeMacDroid",
+            "short_description": "Mount Android phones directly in Finder over USB without USB debugging.",
+            "categories": [
+                "finder",
+                "sharing-files",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/abolfazl-moeini/FreeMacDroid",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/abolfazl-moeini/FreeMacDroid",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Menu bar manager for macOS 14 to 27, a fork of Ice: hide and reveal menu bar icons, with profiles, hotkeys, automation, widgets, system readouts and a notch hub; never connects to the network.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/holzcloud/holzBar",
+            "title": "holzBar",
+            "icon_url": "https://raw.githubusercontent.com/holzcloud/holzBar/main/holzBar/Resources/Assets.xcassets/AppIcon.appiconset/icon_512x512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/holzcloud/holzBar/main/Resources/Screenshots/shelf.png",
+                "https://raw.githubusercontent.com/holzcloud/holzBar/main/Resources/Screenshots/hub-overview.png"
+            ],
+            "official_site": "https://holzcloud.ch/holzbar",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Filetor",
+            "short_description": "Dual-pane file manager for UX/UI designers with project templates, Finder tags and search by sentence.",
+            "categories": [
+                "finder"
+            ],
+            "repo_url": "https://github.com/davidpraznik/Filetor",
+            "icon_url": "https://raw.githubusercontent.com/davidpraznik/Filetor/main/docs/filetor-icon-v1.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/davidpraznik/Filetor/main/docs/filetor-ai-search-v4.png",
+                "https://raw.githubusercontent.com/davidpraznik/Filetor/main/docs/filetor-actions-v2.png"
+            ],
+            "official_site": "https://github.com/davidpraznik/Filetor",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "OhMyShot",
+            "short_description": "Native menu bar tool for screenshots, scrolling capture, annotation, pinning, screen recording with Studio auto-zoom, and on-device OCR.",
+            "categories": [
+                "images",
+                "video",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/MMFoundation/OhMyShot",
+            "icon_url": "https://www.ohmyshot.org/icon-512.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/MMFoundation/OhMyShot/main/Docs/assets/capture-launcher-dark.png",
+                "https://www.ohmyshot.org/og-image.png"
+            ],
+            "official_site": "https://www.ohmyshot.org/",
+            "languages": [
+                "swift"
+            ],
+            "macos_version": "26.0+"
+        },
+        {
+            "title": "CablePeek",
+            "short_description": "Shows the USB-C link speed or charging wattage at the screen edge next to the port when you plug something in, with an eject button.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/diegobruegger-prog/cablepeek",
+            "icon_url": "https://raw.githubusercontent.com/diegobruegger-prog/cablepeek/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/diegobruegger-prog/cablepeek/main/docs/cablepeek.gif"
+            ],
+            "official_site": "https://cablepeek.pages.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Fast file search that understands plain English, typos and dates, with Quick Look, move/undo and a free-up-space view.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/aluz123/rover",
+            "title": "Rover",
+            "icon_url": "https://raw.githubusercontent.com/aluz123/rover/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/aluz123/rover/main/docs/assets/hero.jpg"
+            ],
+            "official_site": "https://getrover.dev",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Hearth",
+            "short_description": "Native Go desktop app to inspect local dev runtimes, PATH conflicts, databases, Docker, Kubernetes, and AI coding agents (MCP, skills, usage) with explicit plan-and-diff fixes.",
+            "categories": [
+                "other-development",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/Blinks44/hearth",
+            "icon_url": "https://raw.githubusercontent.com/Blinks44/hearth/main/resources/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Blinks44/hearth/main/website/public/screenshots/overview-dark.webp",
+                "https://raw.githubusercontent.com/Blinks44/hearth/main/website/public/screenshots/docker-dark.webp",
+                "https://raw.githubusercontent.com/Blinks44/hearth/main/website/public/screenshots/ai-mcp-dark.webp"
+            ],
+            "official_site": "https://hearth.moduix.dev",
+            "languages": [
+                "go"
+            ]
+        },
+        {
+            "short_description": "Simulate film exposure, development and darkroom printing on your Mac.",
+            "categories": [
+                "graphics"
+            ],
+            "repo_url": "https://github.com/akinal5765-byte/Silverphase",
+            "title": "Silverphase",
+            "icon_url": "https://raw.githubusercontent.com/akinal5765-byte/Silverphase/main/screenshots/app-icon.png",
+            "screenshots": [],
+            "official_site": "https://akinal5765-byte.github.io/Silverphase/site/en.html",
+            "languages": [
+                "swift",
+                "cpp"
+            ]
+        },
+        {
+            "title": "AppuBot",
+            "short_description": "Open-source team of AI bots, each with its own job, that hand tasks to each other and work in your real apps and files, on the Claude, ChatGPT, Cursor, Grok or Copilot plan you already have.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/sarthakguptadev/AppuBot",
+            "icon_url": "https://raw.githubusercontent.com/sarthakguptadev/AppuBot/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/sarthakguptadev/AppuBot/e513c7344c597bec9cd264d21b808ad122aa3122/assets/readme/app.svg",
+                "https://raw.githubusercontent.com/sarthakguptadev/AppuBot/e513c7344c597bec9cd264d21b808ad122aa3122/assets/readme/work.svg",
+                "https://raw.githubusercontent.com/sarthakguptadev/AppuBot/e513c7344c597bec9cd264d21b808ad122aa3122/assets/readme/routines.svg"
+            ],
+            "official_site": "https://appubot.com",
+            "languages": [
+                "typescript",
+                "swift"
+            ]
+        },
+        {
+            "title": "VoiceFn",
+            "short_description": "Press fn, speak, press fn again: on-device Whisper dictation that types into any app, with an optional OpenRouter cloud model.",
+            "categories": [
+                "audio",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/relsett/voicefn",
+            "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/9f/07/c29f078c-cdf6-30fe-a636-bf599cd889a7/AppIcon-0-0-85-220-0-6-0-2x.png/512x512bb.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/relsett/voicefn/main/AppStore/screenshots/en-1.png",
+                "https://raw.githubusercontent.com/relsett/voicefn/main/AppStore/screenshots/en-2.png"
+            ],
+            "official_site": "https://relsett.github.io/voicefn/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "KuroCat",
+            "short_description": "Native Swift menu bar desktop cat pet and Bongo Cat alternative with 2.5D spherical head tracking, graphics tablet stylus mode, OBS transparent/green-screen capture, and online skin workshop.",
+            "categories": [
+                "menubar",
+                "streaming",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/chanke17/KuroCat",
+            "icon_url": "https://kurocat.cc/assets/favicon-192.png",
+            "screenshots": [
+                "https://kurocat.cc/assets/og-cover.png",
+                "https://kurocat.cc/assets/preview_siamese.jpg"
+            ],
+            "official_site": "https://kurocat.cc/en/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "PowerLock",
+            "short_description": "Menu bar app that keeps your Mac running with the lid closed while plugged in, and lets it sleep again as soon as you unplug.",
+            "categories": [
+                "menubar",
+                "system"
+            ],
+            "repo_url": "https://github.com/pandengyao/PowerLock",
+            "icon_url": "https://raw.githubusercontent.com/pandengyao/PowerLock/main/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/pandengyao/PowerLock/main/docs/images/menu-en.png",
+                "https://raw.githubusercontent.com/pandengyao/PowerLock/main/docs/images/demo-en.gif"
+            ],
+            "official_site": "https://github.com/pandengyao/PowerLock",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "Tietie",
+            "short_description": "Clipboard history with number-key pasting, search for text inside copied images and clean plain-text pasting.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/KLWSharpe/tietie",
+            "icon_url": "https://raw.githubusercontent.com/KLWSharpe/tietie/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/KLWSharpe/tietie/main/docs/screenshot-list.png",
+                "https://raw.githubusercontent.com/KLWSharpe/tietie/main/docs/demo-en.gif"
+            ],
+            "official_site": "https://github.com/KLWSharpe/tietie/blob/main/README.en.md",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Free, cross-platform break reminder that blurs your desktop into a calm break screen, with posture and blink reminders and smart pause during calls.",
+            "categories": [
+                "productivity",
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/RMoura98/yonder",
+            "title": "Yonder",
+            "icon_url": "https://raw.githubusercontent.com/RMoura98/yonder/main/app/src-tauri/icons/128x128%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/RMoura98/yonder/main/media/hero-poster.png",
+                "https://raw.githubusercontent.com/RMoura98/yonder/main/media/settings-poster.png",
+                "https://raw.githubusercontent.com/RMoura98/yonder/main/media/reminders-poster.png"
+            ],
+            "official_site": "https://rmoura98.github.io/yonder/",
+            "languages": [
+                "rust",
+                "javascript"
+            ]
+        },
+        {
+            "title": "Meboki",
+            "short_description": "Offline grammar checker that underlines English mistakes as you type in any app and fixes them in place, using an open-weight model running on your Mac.",
+            "categories": [
+                "productivity",
+                "text"
+            ],
+            "repo_url": "https://github.com/mebokihq/meboki",
+            "icon_url": "https://raw.githubusercontent.com/mebokihq/meboki/master/docs/images/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/mebokihq/meboki/master/docs/images/screenshot.jpg"
+            ],
+            "official_site": "https://meboki.com",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Native Swift app that brings voice dictation, meeting notes, and a desktop AI agent to the Mac notch.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/AbsoluteMode/whytap",
+            "title": "Whytap",
+            "icon_url": "https://raw.githubusercontent.com/AbsoluteMode/whytap/v2.2.27/docs/assets/whytap-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/AbsoluteMode/whytap/v2.2.27/docs/assets/onboarding-speech.png",
+                "https://raw.githubusercontent.com/AbsoluteMode/whytap/v2.2.27/docs/assets/readme/demo-todo-still.webp"
+            ],
+            "official_site": "https://whytap.ai/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "TabTool",
+            "short_description": "Native CSV, TSV and text editor that detects the format automatically and opens multi-GB files with a memory-mapped index.",
+            "categories": [
+                "csv"
+            ],
+            "repo_url": "https://github.com/shurco/tabtool",
+            "icon_url": "https://tabtool.shurco.app/img/app-icon.png",
+            "screenshots": [
+                "https://tabtool.shurco.app/img/app-grid.webp",
+                "https://tabtool.shurco.app/img/app-large.webp"
+            ],
+            "official_site": "https://tabtool.shurco.app",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Battery level of wireless headsets, mice, keyboards, game controllers and AirPods in the menu bar, with low battery reminders and no vendor software.",
+            "categories": [
+                "menubar",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/qu1ncky/BatteryTray",
+            "title": "BatteryTray",
+            "icon_url": "https://raw.githubusercontent.com/qu1ncky/BatteryTray/main/docs/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/qu1ncky/BatteryTray/main/docs/macos-en.png",
+                "https://raw.githubusercontent.com/qu1ncky/BatteryTray/main/docs/reminder-en.png"
+            ],
+            "official_site": "https://qu1ncky.github.io/BatteryTray/",
+            "languages": [
+                "swift",
+                "rust"
+            ]
+        },
+        {
+            "title": "PurrCore",
+            "short_description": "Lightweight native macOS menu bar CPU, RAM, and per-core monitor with an animated running cat and zero idle wakeups.",
+            "categories": [
+                "menubar",
+                "system",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/alexandryasukaitisss-cmd/purrcore",
+            "icon_url": "",
+            "screenshots": [],
+            "official_site": "https://github.com/alexandryasukaitisss-cmd/purrcore",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "Private clipboard history for macOS with encrypted local storage, sensitive-content protection, search, and quick paste.",
+            "categories": [
+                "productivity",
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/reathloo/smartClip",
+            "title": "SmartClip",
+            "icon_url": "https://raw.githubusercontent.com/reathloo/smartClip/main/Resources/AppIcon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/reathloo/smartClip/main/docs/screenshots/clipboard-dark-translucent.jpg",
+                "https://raw.githubusercontent.com/reathloo/smartClip/main/docs/screenshots/settings-privacy.jpg"
+            ],
+            "official_site": "https://github.com/reathloo/smartClip",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "short_description": "macOS workspace navigator that switches apps and windows from the menu bar.",
+            "categories": [
+                "window-management",
+                "menubar",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/open-dawn/dawn",
+            "title": "DAWN",
+            "icon_url": "https://raw.githubusercontent.com/open-dawn/dawn/main/.github/media/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/open-dawn/dawn/main/.github/media/demo.gif"
+            ],
+            "official_site": "https://opendawn.app/",
+            "languages": [
+                "swift"
+            ]
+        },
+        {
+            "title": "iCanHazMusic",
+            "short_description": "Old-school music player with gapless playback, CUE sheets, huge playlists, Subsonic-compatible servers, scrobbling and lyrics.",
+            "categories": [
+                "audio",
+                "music",
+                "player"
+            ],
+            "repo_url": "https://github.com/deseven/iCanHazMusic",
+            "icon_url": "https://icanhazapps.d7.wtf/images/ichm_icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/deseven/iCanHazMusic/master/screenshots/main.png",
+                "https://raw.githubusercontent.com/deseven/iCanHazMusic/master/screenshots/search.png",
+                "https://raw.githubusercontent.com/deseven/iCanHazMusic/master/screenshots/waveform-dark.png",
+                "https://raw.githubusercontent.com/deseven/iCanHazMusic/master/screenshots/spectrogram-left-np-dark-plsel.png"
+            ],
+            "official_site": "https://icanhazapps.d7.wtf/music",
+            "languages": [
+                "swift"
+            ],
+            "macos_version": "15.4"
+        },
+        {
+            "short_description": "Meeting assistant that transcribes both sides of a call live and answers from your own notes.",
+            "categories": [
+                "productivity"
+            ],
+            "repo_url": "https://github.com/naxhq/NexQ",
+            "title": "NexQ",
+            "icon_url": "https://getnexq.com/apple-touch-icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/naxhq/NexQ/main/website/public/screenshots/Lecture.png"
+            ],
+            "official_site": "https://getnexq.com/",
+            "languages": [
+                "rust",
+                "typescript"
+            ]
+        },
+        {
+            "title": "Pagekin",
+            "short_description": "Plan long-form fiction with chapter blueprints, track continuity, and review revisions in a local project.",
+            "categories": [
+                "editors",
+                "productivity"
+            ],
+            "repo_url": "https://github.com/EthanYoQ/Pagekin",
+            "icon_url": "https://raw.githubusercontent.com/EthanYoQ/Pagekin/v1.5.3/docs/assets/brand/pagekin-icon-256.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/EthanYoQ/Pagekin/v1.5.3/docs/assets/readme/screens/en/blueprint.webp",
+                "https://raw.githubusercontent.com/EthanYoQ/Pagekin/v1.5.3/docs/assets/readme/screens/en/chapter.webp"
+            ],
+            "official_site": "https://www.orz.md/en/ai-novel-writer/",
+            "languages": [
+                "typescript"
+            ]
+        },
+        {
+            "title": "Melodyshaper",
+            "short_description": "Free, offline music maker for beginners that turns a hummed tune into real instruments, with chords, drums, guitar input and MIDI export.",
+            "categories": [
+                "music",
+                "audio"
+            ],
+            "repo_url": "https://github.com/hollowbit-dev/melodyshaper",
+            "icon_url": "https://raw.githubusercontent.com/hollowbit-dev/melodyshaper/main/assets/icon.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/hollowbit-dev/melodyshaper/main/screenshots/melodyshaper-app.png",
+                "https://raw.githubusercontent.com/hollowbit-dev/melodyshaper/main/screenshots/melodyshaper-chords.png"
+            ],
+            "official_site": "https://hollowbit.dev/melodyshaper/",
+            "languages": [
+                "javascript"
+            ]
+        },
+        {
+            "title": "Auralink",
+            "short_description": "Voice input for any app: press fn, speak, and the text is cleaned up, translated or rewritten at the cursor, using the speech and AI services you choose with your own API keys.",
+            "categories": [
+                "utilities",
+                "menubar"
+            ],
+            "repo_url": "https://github.com/hehehai/Auralink",
+            "icon_url": "https://storage.actnow.dev/www/press/auralink/icon-512-c6d0b86f4c.png",
+            "screenshots": [
+                "https://storage.actnow.dev/www/press/auralink/en/app-enhancement-3321789ec8.png",
+                "https://storage.actnow.dev/www/press/auralink/en/dictionary-da51a58f2f.png"
+            ],
+            "official_site": "https://actnow.dev/auralink",
             "languages": [
                 "go",
                 "swift"
